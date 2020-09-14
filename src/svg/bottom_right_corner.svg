@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="bottom_right_corner.svg"
+   id="svg29"
+   viewBox="0 0 32 32"
+   version="1.1"
+   height="32"
+   width="32">
+  <sodipodi:namedview
+     inkscape:current-layer="svg29"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="22.031796"
+     inkscape:cx="20.120444"
+     inkscape:zoom="23.84375"
+     showgrid="true"
+     id="namedview31"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       id="grid856"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7">
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="filter900-3">
+      <feGaussianBlur
+         id="feGaussianBlur4"
+         stdDeviation="0.80716109" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="filter863-3">
+      <feGaussianBlur
+         id="feGaussianBlur4-5"
+         stdDeviation="0.80716109" />
+    </filter>
+    <filter
+       id="a"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.7060545"
+         id="feGaussianBlur858" />
+    </filter>
+    <filter
+       height="1.2051876"
+       y="-0.10259381"
+       width="1.2280153"
+       x="-0.11400764"
+       id="filter1254"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1256"
+         stdDeviation="0.42752864"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <g
+     transform="matrix(-1,0,0,1,32,0)"
+     id="g1299">
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1252"
+       d="m 11,22 2.7,-10.001273 6.3,5.45524 z"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1254)" />
+    <rect
+       ry="0"
+       y="16"
+       x="4"
+       height="12"
+       width="4"
+       id="rect893"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.54919;stroke-linecap:round" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.54919;stroke-linecap:round"
+       id="rect895"
+       width="4"
+       height="12"
+       x="24"
+       y="-16"
+       ry="0"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round"
+       id="rect889"
+       width="2"
+       height="10"
+       x="5"
+       y="17"
+       ry="0" />
+    <rect
+       ry="0"
+       y="-15"
+       x="25"
+       height="10"
+       width="2"
+       id="rect891"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round"
+       transform="rotate(90)" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11,22 2.7,-10.001273 6.3,5.45524 z"
+       id="path899"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>

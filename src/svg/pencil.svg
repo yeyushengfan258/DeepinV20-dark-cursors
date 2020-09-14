@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="pencil.svg">
+  <defs
+     id="defs4">
+    <filter
+       y="-.06"
+       x="-.06"
+       height="1.12"
+       width="1.12"
+       style="color-interpolation-filters:sRGB"
+       id="filter874">
+      <feGaussianBlur
+         stdDeviation=".55"
+         id="feGaussianBlur876" />
+    </filter>
+    <filter
+       y="-.07"
+       x="-.07"
+       height="1.144"
+       width="1.144"
+       style="color-interpolation-filters:sRGB"
+       id="filter826">
+      <feGaussianBlur
+         stdDeviation=".66"
+         id="feGaussianBlur828" />
+    </filter>
+    <filter
+       y="-.1"
+       x="-.1"
+       height="1.192"
+       width="1.192"
+       style="color-interpolation-filters:sRGB"
+       id="filter860">
+      <feGaussianBlur
+         stdDeviation=".96"
+         id="feGaussianBlur862" />
+    </filter>
+    <filter
+       y="-.1"
+       x="-.1"
+       height="1.192"
+       width="1.192"
+       style="color-interpolation-filters:sRGB"
+       id="filter859">
+      <feGaussianBlur
+         stdDeviation=".88"
+         id="feGaussianBlur861" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter941"
+       x="-0.2835"
+       width="1.567"
+       y="-0.2835"
+       height="1.567">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.945"
+         id="feGaussianBlur943" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter945"
+       x="-0.14175"
+       width="1.2835"
+       y="-0.14175"
+       height="1.2835">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.945"
+         id="feGaussianBlur947" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="13.021346"
+     inkscape:cy="19.837467"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid836" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <g
+       id="g958"
+       transform="translate(-27.497266,-15.501366)">
+      <g
+         transform="translate(1)"
+         id="g951">
+        <path
+           id="path937"
+           d="m 30,1061.3622 v 4 h 4 l 12,-12 -4,-4 z"
+           style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter945)" />
+        <path
+           id="path939"
+           d="m 42.497266,1048.8636 4,-4 4,4 -4,4 z"
+           style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter941)" />
+      </g>
+      <path
+         id="path929"
+         d="m 30,1061.3622 v 4 h 4 l 12,-12 -4,-4 z"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path935"
+         d="m 42.497266,1048.8636 4,-4 4,4 -4,4 z"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

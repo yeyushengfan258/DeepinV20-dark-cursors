@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="pointer.svg"
+   id="svg40"
+   viewBox="0 0 32 32"
+   version="1.1"
+   height="32"
+   width="32">
+  <sodipodi:namedview
+     inkscape:current-layer="svg40"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="13.96934"
+     inkscape:cx="17.432794"
+     inkscape:zoom="16.860077"
+     showgrid="true"
+     id="namedview42"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       id="grid867"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       id="style5"
+       type="text/css" />
+    <style
+       id="style7"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       id="style9"
+       type="text/css" />
+    <style
+       id="style11"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       id="style13"
+       type="text/css" />
+    <style
+       id="style15"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       id="style17"
+       type="text/css" />
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.2084"
+       width="1.2829"
+       y="-.10421"
+       x="-.14143"
+       id="filter1071-6">
+      <feGaussianBlur
+         id="feGaussianBlur19"
+         stdDeviation="0.825" />
+    </filter>
+    <filter
+       id="filter858"
+       style="color-interpolation-filters:sRGB"
+       width="1.126"
+       height="1.115"
+       x="-.06"
+       y="-.06">
+      <feGaussianBlur
+         id="feGaussianBlur860"
+         stdDeviation=".525" />
+    </filter>
+    <filter
+       id="filter826"
+       style="color-interpolation-filters:sRGB"
+       width="1.151"
+       height="1.137"
+       x="-.08"
+       y="-.07">
+      <feGaussianBlur
+         id="feGaussianBlur828"
+         stdDeviation=".63" />
+    </filter>
+    <filter
+       id="filter827"
+       style="color-interpolation-filters:sRGB"
+       width="1.201"
+       height="1.184"
+       x="-.1"
+       y="-.09">
+      <feGaussianBlur
+         id="feGaussianBlur829"
+         stdDeviation=".92" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter874"
+       x="-0.11027017"
+       width="1.2205403"
+       y="-0.10582142"
+       height="1.2116428">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.93834097"
+         id="feGaussianBlur876" />
+    </filter>
+  </defs>
+  <rect
+     id="rect36"
+     opacity=".2"
+     fill="none"
+     height="24"
+     width="24"
+     y="-13.695"
+     x="39" />
+  <rect
+     id="rect38"
+     opacity=".2"
+     fill="none"
+     height="24"
+     width="24"
+     y="-26"
+     x="-16" />
+  <path
+     transform="matrix(0.96282034,0,0,0.96282034,-24.250816,-759.80756)"
+     style="opacity:0.25;filter:url(#filter874)"
+     d="m 40.5,795.51565 c -0.70833,0 -1.4025,0.34917 -1.84375,0.9375 C 38.215,797.04148 38,797.84898 38,798.76565 v 7 c -0.5529,-0.4091 -1.20332,-1.0332 -1.6875,-1.25 -0.97844,-0.43811 -1.87243,-0.52407 -2.59375,-0.3125 -1.44264,0.42314 -1.90625,1.8125 -1.90625,1.8125 l -0.21875,0.71875 0.625,0.4375 c 1.37572,0.92883 2.77007,3.20724 4.09375,5.3125 0.66184,1.05263 1.31432,2.03972 2.0625,2.84375 0.74818,0.80403 1.67183,1.47611 2.8125,1.46875 L 50,816.7657 l 0.90625,-0.0312 0.0937,-0.875 1,-10 c 0.14841,-1.4342 -0.72136,-2.65591 -1.84375,-3.03125 -0.54165,-0.18114 -1.16322,-0.0882 -1.71875,0.15625 -0.36471,-0.55879 -0.84191,-0.98136 -1.4375,-1.125 -0.50726,-0.12234 -1.04732,-0.0144 -1.53125,0.1875 -0.34754,-0.49621 -0.80181,-0.85745 -1.34375,-1.03125 -0.34899,-0.11192 -0.74694,-0.0251 -1.125,0.0312 v -2.28125 c 0,-0.91667 -0.215,-1.72417 -0.65625,-2.3125 -0.44125,-0.58833 -1.13542,-0.9375 -1.84375,-0.9375 z"
+     filter="url(#a)"
+     opacity="0.2"
+     id="path854" />
+  <path
+     style="stroke-width:0.96282;fill:#ffffff;fill-opacity:1"
+     d="m 14.743408,4.7921425 c -0.681995,0 -1.350356,0.336188 -1.7752,0.9026441 -0.424845,0.5664561 -0.631851,1.3439335 -0.631851,2.226522 V 14.661051 C 11.804014,14.267161 11.177776,13.666265 10.711598,13.457526 9.7695357,13.035704 8.9087839,12.95294 8.2142823,13.156644 6.8252792,13.564052 6.3789061,14.901756 6.3789061,14.901756 l -0.210617,0.692027 0.6017627,0.421234 c 1.3245712,0.894297 2.6670798,3.087996 3.9415462,5.114983 0.637233,1.013494 1.265454,1.963884 1.985817,2.73802 0.720362,0.774137 1.609671,1.421229 2.707932,1.414143 l 8.484854,-0.03004 0.872556,-0.03004 0.09022,-0.842468 0.962821,-9.628203 c 0.142892,-1.380877 -0.694541,-2.557164 -1.7752,-2.918549 -0.521512,-0.174406 -1.119972,-0.08492 -1.654848,0.15044 -0.35115,-0.538014 -0.810608,-0.944873 -1.384054,-1.083173 -0.4884,-0.117791 -1.008381,-0.01386 -1.474319,0.180529 -0.334618,-0.477761 -0.771999,-0.82557 -1.29379,-0.992908 -0.336014,-0.1077592 -0.719169,-0.02426 -1.083173,0.03004 V 7.9213567 c 0,-0.8825885 -0.207006,-1.6600659 -0.63185,-2.226522 -0.424845,-0.5664561 -1.093206,-0.9026441 -1.7752,-0.9026441 z"
+     id="path856" />
+  <path
+     d="M 14.744141 5.7421875 C 14.022025 5.7421875 13.298828 6.4639726 13.298828 7.9082031 L 13.298828 16.574219 C 8.4847267 11.760118 7.3046875 15.21875 7.3046875 15.21875 C 10.576072 17.42746 12.576836 24.350152 15.384766 24.332031 L 23.890625 24.277344 L 24.853516 14.648438 C 25.055468 12.696848 22.636344 11.884736 21.964844 13.685547 C 21.973544 11.521425 19.746757 11.250581 19.076172 12.722656 C 19.160132 10.934661 16.888164 10.242554 16.1875 11.759766 L 16.1875 7.9082031 C 16.1875 6.4639726 15.466256 5.7421875 14.744141 5.7421875 z "
+     style="stroke-width:0.96282;fill:#000000;fill-opacity:1"
+     id="path858" />
+</svg>
