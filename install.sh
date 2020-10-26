@@ -10,11 +10,11 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/DeppinDark-cursors" ]; then
-  rm -r "$DEST_DIR/DeppinDark-cursors"
+if [ -d "$DEST_DIR/DeepinDark-cursors" ]; then
+  rm -r "$DEST_DIR/DeepinDark-cursors"
 fi
 
-cp -pr dist $DEST_DIR/DeppinDark-cursors
+cp -pr dist $DEST_DIR/DeepinDark-cursors
 
 echo "Finished..."
 

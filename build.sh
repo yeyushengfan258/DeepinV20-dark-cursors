@@ -61,7 +61,7 @@ function create {
 
 # generate pixmaps from svg source
 SRC=$PWD/src
-THEME="DeppinDark Cursors"
+THEME="DeepinDark Cursors"
 
 create svg
 
